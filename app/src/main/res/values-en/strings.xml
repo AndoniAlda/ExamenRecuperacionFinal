@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1st Final evaluation</string>
+    <string name="Actividad1">Activity 01</string>
+    <string name="Actividad1B">Activity 1B</string>
+    <string name="Actividad2">Activity 02</string>
+    <string name="Actividad3">Activity 03</string>
+    <string name="Exit">Exit</string>
+    <string name="notImplement">Activity not implemented</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Examen 1º Eval. Final</string>
+    <string name="Actividad1">Actividad 01</string>
+    <string name="Actividad1B">Actividad 1B</string>
+    <string name="Actividad2">Actividad 02</string>
+    <string name="Actividad3">Actividad 03</string>
+    <string name="Exit">Salir</string>
+    <string name="notImplement">Actividad no implementada</string>
+    <string name="title_activity_actividad1_b">Actividad1B</string>
+</resources>
